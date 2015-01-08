@@ -1,0 +1,14 @@
+.nitea-category-image_uploader{
+	margin: 0 0 20px 0;
+}
+.nitea-category-image_uploader:after{
+	display: table;
+	clear: both;
+	content: " ";
+}
+
+.nitea-category-image_current-image{
+	float: left; 
+	margin: 0 20px 0 0;
+	max-width: 50px; 
+}
